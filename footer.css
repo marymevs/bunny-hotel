@@ -1,0 +1,14 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightblue;
+  padding: 8px;
+  align-items: center;
+  font-weight: bold;
+}
+
+footer img {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+}

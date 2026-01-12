@@ -4,11 +4,12 @@ main {
   align-items: center;
   padding: 25px;
   gap: 3ch;
+  height: 80vh;
 }
 
 main img {
-  height: 50%;
-  width: 50%;
+  height: 500px;
+  width: 500px;
 }
 
 @media (max-width: 400px) {
