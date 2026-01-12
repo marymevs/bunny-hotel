@@ -8,20 +8,6 @@ body {
   background-color: lightgray;
 }
 
-header img {
-  border-radius: 50%;
-  height: 50px;
-  width: 50px;
-}
-
-header {
-  display: flex;
-  background-color: goldenrod;
-  align-items: center;
-  justify-content: space-between;
-  padding: 8px;
-}
-
 main {
   display: flex;
   flex-direction: column;
